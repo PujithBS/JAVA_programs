@@ -1,4 +1,4 @@
-class hello1
+class Command
 {
 public static void main(String args[])
 {
